@@ -13,8 +13,9 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
 ## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,mysql,html,css,maven,vscode" />
+  </a>
 </p>
 
 ## 📈 Estatísticas do GitHub

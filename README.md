@@ -14,7 +14,7 @@ I'm a developer passionate about technology, always seeking new challenges and l
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,mysql,html,css,maven,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,angular,mysql,vscode" />
   </a>
 </p>
 

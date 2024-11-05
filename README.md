@@ -1,16 +1,16 @@
-# 👋 Olá, eu sou Pedro Augusto!
+# Pedro Augusto - Back-end Java Developer
 
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
+I'm a developer passionate about technology, always seeking new challenges and learning opportunities.
 
-## Sobre Mim
+## About Me
 
-- 🔭 Atualmente estou trabalhando em projetos com **Java** e **Spring Boot**.
-- 🌱 Estou aprendendo mais sobre **microserviços** e **arquiteturas escaláveis**.
-- 🤖 Entusiasta de **Inteligência Artificial**.
-- 📚 Buscando novos conhecimentos e aprendizado em **novas tecnologias**.
+- 🔭 Currently working on projects with **Java** and **Spring Boot**.
+- 🌱 Learning more about **microservices** and **scalable architectures**.
+- 🤖 Enthusiast of **Artificial Intelligence**.
+- 📘 Constantly pursuing knowledge and learning about **new technologies**.
+- 🎓 Studying Computer Science (FUMEC - Fundação Mineira de Educação e Cultura).
 
-
-## Tecnologias e Ferramentas
+## Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,12 +18,13 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafi
   </a>
 </p>
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Airesp4&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airesp4&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=Airesp4&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airesp4&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
+
 
 
 <!---

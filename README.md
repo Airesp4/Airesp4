@@ -7,7 +7,7 @@ I'm a developer passionate about technology, always seeking new challenges and l
 - 🔭 Currently working on projects with **Java** and **Spring Boot**.
 - 🌱 Learning more about **microservices** and **scalable architectures**.
 - 🤖 Enthusiast of **Artificial Intelligence**.
-- 📘 Constantly pursuing knowledge and learning about **new technologies**.
+- 📘 Constantly seeking for knowledge and learning about **new technologies**.
 - 🎓 Studying Computer Science (FUMEC - Fundação Mineira de Educação e Cultura).
 
 ## Technologies & Tools

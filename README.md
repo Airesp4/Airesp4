@@ -18,14 +18,8 @@ I'm a developer passionate about technology, always seeking new challenges and l
 
 ## 📬 How to reach me
 
-<p>
-  <a href="www.linkedin.com/in/pedro-aires4" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:pedroaugustogoncalvesribeiro@gmail.com" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/pedro-aires4)](https://www.linkedin.com/in/pedro-aires4)
+[![Gmail](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:pedroaugustogoncalvesribeiro@gmail.com)](mailto:pedroaugustogoncalvesribeiro@gmail.com)
   
 ## 📈 GitHub Stats
 

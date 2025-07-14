@@ -12,7 +12,9 @@ I'm a developer passionate about technology, always seeking new challenges and l
 
 ## Technologies & Tools
 
-![Tech Stack](https://skillicons.dev/icons?i=java,spring,js,ts,angular,py,flask,docker,postgres,mysql,vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,angular,py,flask,docker,postgres,mysql,vscode" />
+</p>
 
 ## 📬 How to reach me
 

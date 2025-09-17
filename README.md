@@ -33,13 +33,6 @@ I'm a developer passionate about technology, always seeking new challenges and l
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/pedro-aires4)](https://www.linkedin.com/in/pedro-aires4)
 [![Gmail](https://img.shields.io/badge/pedroaugustogoncalvesribeiro@-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:pedroaugustogoncalvesribeiro@gmail.com)](mailto:pedroaugustogoncalvesribeiro@gmail.com)
   
-## 📈 GitHub Stats
-
-<p align="row">
-  <img src="https://github-readme-stats.vercel.app/api?username=Airesp4&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airesp4&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
-
 
 
 <!---
